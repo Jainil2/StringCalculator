@@ -38,7 +38,8 @@ The `CalculatorService` class provides the `add` method to perform addition base
 
 #### Example
 
-1. run test 
+1. run test
+   
     ```bash
     mvn test
     ```
