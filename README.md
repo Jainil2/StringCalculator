@@ -38,4 +38,7 @@ The `CalculatorService` class provides the `add` method to perform addition base
 
 #### Example
 
-mvn test
+    ```bash
+    mvn test
+    ```
+    
