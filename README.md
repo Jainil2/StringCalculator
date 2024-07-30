@@ -36,7 +36,7 @@ A simple string calculator service that performs addition operations based on a 
 
 The `CalculatorService` class provides the `add` method to perform addition based on the input string.
 
-#### Example
+#### Test
 
 1. run test
    
