@@ -1,2 +1,18 @@
-Development code File Path : src/main/java/org.example/Services/CalculatorService 
-Test code File Path :  src/test/org.example/Services/CalculatorServiceTest
+string-calculator-service/
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── org/
+│   │           └── example/
+│   │               └── Services/
+│   │                   ├── CalculatorService.java
+│   │                   └── Main.java
+│   ├── test/
+│   │   └── java/
+│   │       └── org/
+│   │           └── example/
+│   │               └── Services/
+│   │                   └── CalculatorServiceTest.java
+├── .gitignore
+├── pom.xml
+└── README.md
